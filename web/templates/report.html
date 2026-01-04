@@ -1,0 +1,6 @@
+<h2>SecretsGuard Report</h2>
+<ul>
+{% for r in report %}
+<li>{{ r.file }} | {{ r.type }} | {{ r.redacted }} | Risk {{ r.score }}</li>
+{% endfor %}
+</ul>
