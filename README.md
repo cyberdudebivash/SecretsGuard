@@ -90,11 +90,11 @@ You’ll get a redacted security report directly in your terminal.
  Free vs  Paid Capabilities
 Free (Open Source)
 
-✔ Repo scan (latest snapshot)
-✔ Common secret patterns
-✔ Redacted CLI report
-✔ Local execution
-✔ No data leaving your system
+ Repo scan (latest snapshot)
+ Common secret patterns
+ Redacted CLI report
+ Local execution
+ No data leaving your system
 
 Paid (Professional / Enterprise)
 
@@ -195,4 +195,5 @@ Detection is easy.
 Remediation is what matters.
 
 — CyberDudeBivash Pvt. Ltd.
+
 Security • Engineering • Trust
